@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "1db9b2d292ec25159206a9ba6c9bb31e"
+build_time: [547131569, 341121000]
+inputs:
+  "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/TODOLIST/DonePage.swift": [547131567, 0]
+  "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/TODOLIST/SegmentedControl.swift": [546603772, 0]
+  "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/TODOLIST/AppDelegate.swift": [547131433, 0]
+  "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/TODOLIST/AddList.swift": [547130993, 0]
+  "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/TODOLIST/Extra.swift": [547055385, 0]
+  "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/TODOLIST/DoneCell.swift": [547122377, 0]
+  "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/TODOLIST/MainPage.swift": [547131467, 0]
+  "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/TODOLIST/FirstPage.swift": [547130904, 0]

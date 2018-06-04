@@ -1,0 +1,174 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/build/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher-Swift.h",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/build/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMSessionFetcher-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher-umbrella.h",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher.h",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcherLogging.h",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcherService.h",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionUploadFetcher.h",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/build/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/build/Pods.build/Debug-iphonesimulator/GTMSessionFetcher.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/build/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMDebugSelectorValidation.h",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/Pods/GoogleToolboxForMac/DebugUtils/GTMDebugSelectorValidation.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMDebugThreadValidation.h",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/Pods/GoogleToolboxForMac/DebugUtils/GTMDebugThreadValidation.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMDefines.h",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/Pods/GoogleToolboxForMac/GTMDefines.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMMethodCheck.h",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/Pods/GoogleToolboxForMac/DebugUtils/GTMMethodCheck.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSData+zlib.h",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/Pods/GoogleToolboxForMac/Foundation/GTMNSData+zlib.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSDictionary+URLArguments.h",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/Pods/GoogleToolboxForMac/Foundation/GTMNSDictionary+URLArguments.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSString+URLArguments.h",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/Pods/GoogleToolboxForMac/Foundation/GTMNSString+URLArguments.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleToolboxForMac-Swift.h",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/build/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers/GoogleToolboxForMac-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleToolboxForMac-umbrella.h",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/build/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/build/Pods.build/Debug-iphonesimulator/GoogleToolboxForMac.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/build/Debug-iphonesimulator/MCSwipeTableViewCell/MCSwipeTableViewCell.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MCSwipeTableViewCell-Swift.h",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/build/Debug-iphonesimulator/MCSwipeTableViewCell/MCSwipeTableViewCell.framework/Headers/MCSwipeTableViewCell-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MCSwipeTableViewCell-umbrella.h",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/Pods/Target Support Files/MCSwipeTableViewCell/MCSwipeTableViewCell-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "MCSwipeTableViewCell.h",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/Pods/MCSwipeTableViewCell/MCSwipeTableViewCell/MCSwipeTableViewCell.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/build/Debug-iphonesimulator/MCSwipeTableViewCell/MCSwipeTableViewCell.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/build/Pods.build/Debug-iphonesimulator/MCSwipeTableViewCell.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/build/Debug-iphonesimulator/Pods_TODOLIST.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-TODOLIST-umbrella.h",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/Pods/Target Support Files/Pods-TODOLIST/Pods-TODOLIST-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_TODOLIST-Swift.h",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/build/Debug-iphonesimulator/Pods_TODOLIST.framework/Headers/Pods_TODOLIST-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/build/Debug-iphonesimulator/Pods_TODOLIST.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/dastansabet/Documents/SwiftProjects/TODOLIST/build/Pods.build/Debug-iphonesimulator/Pods-TODOLIST.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

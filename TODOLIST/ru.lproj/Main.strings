@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "ADD NOTE"; ObjectID = "3hx-K2-FtG"; */
+"3hx-K2-FtG.normalTitle" = "Добавьте заметку";
+
+/* Class = "UIBarButtonItem"; title = "Log out"; ObjectID = "6S3-uj-S4G"; */
+"6S3-uj-S4G.title" = "Выйти";
+
+/* Class = "UINavigationItem"; title = "TO DO LIST"; ObjectID = "PNC-oR-nme"; */
+"PNC-oR-nme.title" = "Заметка";
+
+/* Class = "UITextField"; placeholder = "e-mail"; ObjectID = "PaB-0Q-ISH"; */
+"PaB-0Q-ISH.placeholder" = "e-mail";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "X3H-zq-MwR"; */
+"X3H-zq-MwR.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "ZZa-dr-3H0"; */
+"ZZa-dr-3H0.placeholder" = "пароль";
+
+/* Class = "UIButton"; normalTitle = "DELETE"; ObjectID = "fir-BJ-FxF"; */
+"fir-BJ-FxF.normalTitle" = "Удалить";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "x7o-V6-tbA"; */
+"x7o-V6-tbA.text" = "Label";
